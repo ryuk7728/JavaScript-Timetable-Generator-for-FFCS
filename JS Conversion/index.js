@@ -612,9 +612,8 @@ for (let i = 0; i < combinations.length; i++) {
     console.log("Lab:", bruteObject.combination1);
     console.log("Embedded:", bruteObject.combination2);
     
-    // Display details of teachers and slots
+    // Display details of teachers
     console.log("Teachers:", bruteObject.teachers);
-    console.log("Slots:", bruteObject.slots);
 
     // Add additional details if needed
 
